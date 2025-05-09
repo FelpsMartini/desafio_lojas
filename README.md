@@ -37,7 +37,7 @@ As Lojas 2 e 3, com seus clientes já engajados e satisfeitos, representam um te
 
 **Para uma análise mais profunda do desempenho de cada loja, é crucial entender a contribuição de diferentes categorias de produtos para o faturamento total. O gráfico abaixo ilustra a comparação do faturamento por categoria de produto entre as quatro lojas, revelando quais categorias têm maior impacto em cada unidade.**
 
-![Gráfico de barras comparando faturamento por categoria de produto entre as lojas](faturamento_por_categoria.png)
+![Gráfico de barras comparando faturamento por categoria de produto entre as lojas](categoria.png)
 
 Ao analisar este gráfico, o Sr. João poderá identificar categorias de produtos de alto desempenho em lojas específicas e replicar estratégias bem-sucedidas em outras unidades. Da mesma forma, categorias com baixo desempenho podem demandar uma revisão de precificação, marketing ou até mesmo a consideração de descontinuação.
 
