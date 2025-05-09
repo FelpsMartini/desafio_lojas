@@ -35,6 +35,12 @@ A Loja 1, com seu volume de vendas impressionante, serve de farol, indicando o p
 
 As Lojas 2 e 3, com seus clientes já engajados e satisfeitos, representam um terreno fértil para o crescimento. Com a estratégia certa, focada em otimização de lucros para a Loja 2 e um planejamento de vendas mais incisivo para a Loja 3, o Sr. João pode desbloquear um potencial ainda maior nessas unidades.
 
+**Para uma análise mais profunda do desempenho de cada loja, é crucial entender a contribuição de diferentes categorias de produtos para o faturamento total. O gráfico abaixo ilustra a comparação do faturamento por categoria de produto entre as quatro lojas, revelando quais categorias têm maior impacto em cada unidade.**
+
+![Gráfico de barras comparando faturamento por categoria de produto entre as lojas](faturamento_por_categoria.png)
+
+Ao analisar este gráfico, o Sr. João poderá identificar categorias de produtos de alto desempenho em lojas específicas e replicar estratégias bem-sucedidas em outras unidades. Da mesma forma, categorias com baixo desempenho podem demandar uma revisão de precificação, marketing ou até mesmo a consideração de descontinuação.
+
 ## Como Este Relatório Pode Te Ajudar:
 
 Mergulhe nestas páginas para absorver a essência da nossa análise e as recomendações que dela emanam. Apresentamos os insights de forma direta e visual, com gráficos gerados em Python que ilustram os pontos chave de maneira intuitiva.
@@ -48,7 +54,7 @@ Agradecemos ao Sr. João por compartilhar os dados que tornaram esta análise po
 Este projeto ganhou vida com a ajuda de ferramentas essenciais do universo da ciência de dados em Python:
 
 * **pandas:** A espinha dorsal para manipular, limpar e analisar os dados de cada loja. A criação de DataFrames robustos foi crucial para uma análise precisa.
-* **matplotlib:** Nosso pincel para transformar números em imagens. O módulo pyplot nos permitiu criar visualizações claras, como os gráficos de barras comparando o lucro simplificado e a média de avaliação.
+* **matplotlib:** Nosso pincel para transformar números em imagens. O módulo pyplot nos permitiu criar visualizações claras, como os gráficos de barras comparando o lucro simplificado, a média de avaliação e, agora, o faturamento por categoria de produto.
 
 ## Nossas Recomendações Estratégicas em Ação:
 
@@ -57,6 +63,7 @@ Com base na análise detalhada, apresentamos um plano de ação estratégico par
 * **Venda Inteligente da Loja 4:** Dada sua performance financeira menos robusta e a necessidade de elevar a satisfação dos clientes, a venda estratégica da Loja 4 surge como uma jogada inteligente. Isso liberará capital para o novo empreendimento, permitindo um foco maior nas lojas com maior potencial de crescimento.
 * **Potencializando a Força da Loja 1:** Mesmo liderando em receita, a chave para o sucesso contínuo da Loja 1 reside na melhoria da experiência do cliente. Investir em um atendimento excepcional e otimizar os custos de frete não só fidelizará os clientes existentes, mas também atrairá novos, impulsionando ainda mais as vendas.
 * **Desbloqueando o Potencial das Lojas 2 e 3:** Com bases de clientes sólidas e satisfeitas, as Lojas 2 e 3 estão prontas para um novo patamar. Uma estratégia focada na otimização de lucros para a Loja 2 e um planejamento de vendas estratégico para a Loja 3 podem gerar um crescimento significativo para ambas as unidades.
+* **Análise de Desempenho por Categoria:** Utilizar o gráfico de faturamento por categoria de produto para identificar os motores de venda em cada loja e as áreas que necessitam de atenção. Essa análise pode direcionar decisões sobre estoque, marketing e estratégias de vendas específicas para cada categoria em cada loja.
 
 ## Considerações Finais: Uma Visão Ampla:
 
