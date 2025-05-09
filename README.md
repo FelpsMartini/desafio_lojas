@@ -8,13 +8,13 @@ Este projeto nasceu com um objetivo claro: munir o Sr. João com uma visão estr
 
 A Loja 1 reina absoluta em receita total, um verdadeiro motor de vendas! Por outro lado, a Loja 4 acende um sinal de alerta com o menor lucro simplificado (uma conta rápida de Receita Total menos o Custo Total do Frete). Essa diferença nos convida a uma reflexão profunda sobre a saúde financeira dessa unidade.
 
-![Gráfico de Barras do Lucro Simplificado por Loja](caminho/para/seu/grafico_lucro_simplificado.png)
+![Gráfico de barras do lucro simplificado por loja](lucro.png)
 
 ### A Voz do Cliente:
 
 A Loja 3 conquistou o coração dos seus clientes, ostentando a melhor média de avaliações. A Loja 2 vem logo atrás, mostrando que também trilha um caminho de satisfação. Já a Loja 1, apesar do seu sucesso em vendas, tem uma bela oportunidade de refinar a jornada de compra e fortalecer o relacionamento com seus consumidores.
 
-![Gráfico de Barras da Média de Avaliação por Loja](caminho/para/seu/grafico_media_avaliacao.png)
+![Gráfico de barras da média de avaliação por loja](avaliacao.png)
 
 A tabela abaixo detalha as médias de avaliação por loja:
 
